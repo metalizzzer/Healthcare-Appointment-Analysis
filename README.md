@@ -42,7 +42,7 @@ healthcare-appointment-sql/
 * `RANK`, `DENSE_RANK` and `LAG` for ranking and trend analysis
 * date functions for waiting time, booking lead time and monthly KPIs
 
-## Main findings
+## Key insights
 
 In the sample dataset:
 
