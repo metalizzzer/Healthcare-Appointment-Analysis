@@ -1,0 +1,9 @@
+specialty_id,specialty_name,standard_fee,visit_duration_min
+1,Cardiology,220,45
+2,Orthopedics,260,45
+3,Dermatology,180,30
+4,Physiotherapy,120,45
+5,Pediatrics,130,30
+6,Internal Medicine,150,30
+7,Neurology,240,45
+8,ENT,160,30
